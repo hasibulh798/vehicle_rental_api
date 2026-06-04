@@ -17,7 +17,7 @@ app.use(express.json());
 initDB();
 
 //Test route
-app.get("/api/v1", (req: Request, res: Response) => {
+app.get("/", (req: Request, res: Response) => {
   res.status(200).json({
     message: "Welcome to the Vehicle Rental System API",
   });
@@ -38,3 +38,6 @@ app.use("/api/v1/bookings", bookingRoutes);
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
+
+export default app;
+
