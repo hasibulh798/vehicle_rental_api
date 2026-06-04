@@ -10,8 +10,8 @@ A complete, production-ready backend API for managing a **Vehicle Rental Service
 
 ### 🔗 Live API Endpoint
 The backend service is configured and deployed to Vercel:
-* **Production Live URL:** `https://vehicle-rental-system-kis4o1frl.vercel.app`
-* **Base Endpoint Path:** `https://vehicle-rental-system-kis4o1frl.vercel.app/api/v1`
+* **Production Live URL:** `https://vehicle-rental-system-five-lovat.vercel.app/`
+* **Base Endpoint Path:** `https://vehicle-rental-system-five-lovat.vercel.app/api/v1`
 
 ---
 
